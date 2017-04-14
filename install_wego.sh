@@ -13,6 +13,7 @@ echo "export PATH=$PATH:$HOME/gocode/:$HOME/gocode/bin/" >> ~/.bash_profile
 
 echo "--------------------------------------------------------------"
 echo "You are all ready. Now go get api key from https://darksky.net"
-echo "And edit ~/.wegorc with your own api"
+echo "Secondly, find your location's latitude and longitude
+echo "And edit ~/.wegorc with your own api and location data"
 echo "Enjoy!"
 echo "--------------------------------------------------------------"
