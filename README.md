@@ -8,6 +8,6 @@ wego: https://github.com/schachmat/wego
 
 Wego is weather cast program... in your terminal! It uses open weather api.
 
-* install_asciiquarium.sh
+* setup_cowfortune.sh
 
-
+Use fortune and cowsay to speak fortunes everytime you open a new terminal
